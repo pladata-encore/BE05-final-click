@@ -37,6 +37,16 @@
 <hr/>
 <br/>
 
+#### Card
+<img src="https://github.com/user-attachments/assets/12b54985-8628-4c96-9db4-75aaf0823554" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/620ea8a4-9530-41f1-a98a-0bf5112a29de" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/0a6e0771-fd52-4ca0-866b-69a530df4f96" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/09fa10ba-57fe-46e1-adeb-bbde14c6e634" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/b2035ba8-f238-498b-be54-9099bca65729" width="262" height="568"/>
+
+<hr/>
+<br/>
+
 #### Pay
 
 <br/>
@@ -73,7 +83,8 @@
 
 ### 다이어그램
 #### ERD
-준비 중
+![ERD](https://github.com/user-attachments/assets/cbb44846-0399-48ac-bf53-50b47175e806)
+
 
 <br />
 
@@ -83,7 +94,8 @@
 <br/>
 
 #### Architecture Diagram
-준비 중
+![아키텍쳐다이어그램](https://github.com/user-attachments/assets/ac86c8a1-2129-4671-99ad-52b6f9c4900a)
+
 
 <br />
 
