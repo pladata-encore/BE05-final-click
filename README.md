@@ -107,10 +107,12 @@
 <br />
 
 ### 시연 영상
-
 https://github.com/user-attachments/assets/42730201-bee3-4cda-b885-87b8d6189e19
 
+
 ### 페이 시연영상
+https://github.com/user-attachments/assets/19564735-9f6b-4775-a72c-85fb5acb843d
+
 
 
 
