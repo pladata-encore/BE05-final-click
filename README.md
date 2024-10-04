@@ -18,8 +18,23 @@
 
 <br/>
 
-### 서비스
-#### Customer
+### 서버
+#### Customer Service https://github.com/JUST-CLICK-BANK/auth.git
+#### Bank Service https://github.com/JUST-CLICK-BANK/account.git
+#### Account History Service https://github.com/JUST-CLICK-BANK/account-history.git
+#### Card Service https://github.com/JUST-CLICK-BANK/cards.git
+#### Friend Service https://github.com/JUST-CLICK-BANK/friends.git
+#### Pay Service https://github.com/JUST-CLICK-BANK/pay.git
+#### Account History batch https://github.com/JUST-CLICK-BANK/account-history-batch.git 
+#### Card batch https://github.com/JUST-CLICK-BANK/card-batch.git
+
+
+### 프론트
+#### Bank https://github.com/JUST-CLICK-BANK/fe-click-bank.git
+#### Card Admin https://github.com/JUST-CLICK-BANK/fe_click_card.git
+#### Pay https://github.com/JUST-CLICK-BANK/fe-click-pay.git
+
+
 <img src="https://github.com/user-attachments/assets/2298bcaf-4f55-45f1-ab4a-3edc9be7d4c9" width="262" height="568"/>
 <img src="https://github.com/user-attachments/assets/86c6d70b-5964-452e-848f-0658da12d3c3" width="262" height="568"/>
 <img src="https://github.com/user-attachments/assets/d50c8049-99ff-4a4c-b705-c38d4766751a" width="262" height="568"/>
@@ -49,6 +64,8 @@
 
 #### friend
 <img src ="https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6" width="262" height= "568"/>
+<img src = "https://github.com/user-attachments/assets/95499435-363e-4498-a094-532de7cdbe2d" width="262" height= "568">
+
 
 
 
