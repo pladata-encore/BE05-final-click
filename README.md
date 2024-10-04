@@ -107,7 +107,13 @@
 <br />
 
 ### 시연 영상
-준비 중
+
+https://github.com/user-attachments/assets/42730201-bee3-4cda-b885-87b8d6189e19
+
+### 페이 시연영상
+
+
+
 
 <br />
 
