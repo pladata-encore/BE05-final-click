@@ -128,6 +128,7 @@
 
 <br />
 ## 프로젝트 진행 및 관리
+
 ### 1. 스크럼 회의
 https://github.com/user-attachments/assets/1e7bf41a-d27d-4499-9d6d-d7645344cbd7
 
