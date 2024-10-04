@@ -127,6 +127,10 @@
 
 
 <br />
+## 프로젝트 진행 및 관리
+![image](https://github.com/user-attachments/assets/b910c3b3-9dda-4358-a537-f43763199174)
+
+
 
 ## 그 외 자료
 ### PPT
