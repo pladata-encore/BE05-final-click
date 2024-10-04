@@ -130,7 +130,10 @@
 ## 프로젝트 진행 및 관리
 
 ### 1. 스크럼 회의
-https://github.com/user-attachments/assets/1e7bf41a-d27d-4499-9d6d-d7645344cbd7
+https://github.com/user-attachments/assets/27e4c021-8b6a-44a4-9cfc-000e1223a6d2
+
+
+
 
 
 ### 2. API 문서
@@ -142,6 +145,7 @@ https://github.com/user-attachments/assets/1e7bf41a-d27d-4499-9d6d-d7645344cbd7
 
 <hr/>
 <br/>
+
 ## 그 외 자료
 ### PPT
 [딸깍_PPT.pdf](https://github.com/user-attachments/files/17253792/_PPT.pdf)
