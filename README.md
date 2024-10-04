@@ -101,7 +101,8 @@
 
 ## 그 외 자료
 ### PPT
-준비 중
+[딸깍_PPT.pdf](https://github.com/user-attachments/files/17253792/_PPT.pdf)
+
 
 <br />
 
