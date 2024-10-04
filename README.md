@@ -67,6 +67,8 @@
 <img src = "https://github.com/user-attachments/assets/95499435-363e-4498-a094-532de7cdbe2d" width="262" height= "568"/>
 <img src = " https://github.com/user-attachments/assets/93969cd7-d210-42f7-910f-86827f60c3e1" width= "262" height= "568"/>
 <img src = " https://github.com/user-attachments/assets/955b6727-1a05-4317-98d3-59c4c6f97e20" width= "262" height ="568"/>
+<hr/>
+<br/>
 
 
 
