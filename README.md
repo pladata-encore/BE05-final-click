@@ -48,7 +48,7 @@
 <br/>
 
 #### friend
-<img src ="![friend1](https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6)" width="262" height= "568"/>
+<img src ="https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6" width="262" height= "568"/>
 
 
 
