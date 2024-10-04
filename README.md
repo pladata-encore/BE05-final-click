@@ -129,11 +129,12 @@
 <br />
 ## 프로젝트 진행 및 관리
 ### 1. 스크럼 회의
-<img src= "https://github.com/user-attachments/assets/b910c3b3-9dda-4358-a537-f43763199174" width="400" height= "300"/>
-<img src = "https://github.com/user-attachments/assets/25e7f8f8-d098-4576-8088-ceea32638c77" width="400" height= "300"/>
+https://github.com/user-attachments/assets/1e7bf41a-d27d-4499-9d6d-d7645344cbd7
 
 
 ### 2. API 문서
+![image](https://github.com/user-attachments/assets/07575f6e-ae3e-43d5-a3ef-84a50d649619)
+
 
 
 
