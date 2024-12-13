@@ -35,12 +35,16 @@
 #### Pay https://github.com/JUST-CLICK-BANK/fe-click-pay.git
 
 #### Auth
-<img src="https://github.com/user-attachments/assets/2298bcaf-4f55-45f1-ab4a-3edc9be7d4c9" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/86c6d70b-5964-452e-848f-0658da12d3c3" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/d50c8049-99ff-4a4c-b705-c38d4766751a" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/2298bcaf-4f55-45f1-ab4a-3edc9be7d4c9" width="196" height="426"/>
+<img src="https://github.com/user-attachments/assets/86c6d70b-5964-452e-848f-0658da12d3c3" width="196" height="426"/>
+<img src="https://github.com/user-attachments/assets/d50c8049-99ff-4a4c-b705-c38d4766751a" width="196" height="426"/>
 
 <hr/>
 <br/>
+
+#### Account
+
+
 
 #### Bank
 <img src="https://github.com/user-attachments/assets/7cd519d0-2dcd-49fc-9435-f9ba7b32b910" width="262" height="568"/>
@@ -53,11 +57,11 @@
 <br/>
 
 #### Card
-<img src="https://github.com/user-attachments/assets/12b54985-8628-4c96-9db4-75aaf0823554" width="180" height="450"/>
-<img src="https://github.com/user-attachments/assets/620ea8a4-9530-41f1-a98a-0bf5112a29de" width="180" height="450"/>
-<img src="https://github.com/user-attachments/assets/0a6e0771-fd52-4ca0-866b-69a530df4f96" width="180" height="568"/>
-<img src="https://github.com/user-attachments/assets/09fa10ba-57fe-46e1-adeb-bbde14c6e634" width="180" height="568"/>
-<img src="https://github.com/user-attachments/assets/b2035ba8-f238-498b-be54-9099bca65729" width="180" height="568"/>
+<img src="https://github.com/user-attachments/assets/12b54985-8628-4c96-9db4-75aaf0823554" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/620ea8a4-9530-41f1-a98a-0bf5112a29de" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/0a6e0771-fd52-4ca0-866b-69a530df4f96" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/09fa10ba-57fe-46e1-adeb-bbde14c6e634" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/b2035ba8-f238-498b-be54-9099bca65729" width="262" height="568"/>
 
 <hr/>
 <br/>
