@@ -77,6 +77,12 @@
 
 
 #### Pay
+<img src = "https://github.com/user-attachments/assets/e89e3b94-77af-4653-a26a-9327a02faa51" width ="450" height="200"/>
+<img src = "https://github.com/user-attachments/assets/d5a4b0e8-5dc1-4472-ad2a-0d6d5661201b" width ="450" height="200"/> 
+<img src = "https://github.com/user-attachments/assets/e4a2b732-0a4e-43cf-b47e-6fe24e064bcb" width="450"  height="200"/>
+<img src = "https://github.com/user-attachments/assets/d0789fdc-01aa-45ed-b7aa-298ba9436def" width="450"  height="200"/>
+
+
 
 <br/>
 
