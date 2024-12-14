@@ -69,30 +69,57 @@
 
 
 
+
+
 #### Account History
-<img src="https://github.com/user-attachments/assets/7cd519d0-2dcd-49fc-9435-f9ba7b32b910" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/6e504325-eea8-4b9f-9611-29745b758f11" width="262" height="568"/>
-<br/>
-<img src="https://github.com/user-attachments/assets/440b28d8-3300-4281-8b8a-a5d598cc58cc" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/f93bd11c-ef9e-44f9-a4b8-0711c07d9168" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/7cd519d0-2dcd-49fc-9435-f9ba7b32b910" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/6e504325-eea8-4b9f-9611-29745b758f11" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/440b28d8-3300-4281-8b8a-a5d598cc58cc" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/f93bd11c-ef9e-44f9-a4b8-0711c07d9168" width="196" height="426"/>
+<img src="https://github.com/user-attachments/assets/d4a217f3-a96f-4205-b2f7-56393a878379" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/d9719266-c4dd-4991-8c89-a3aad6411e4f" width="196" height="426"/>
+
 
 <hr/>
 <br/>
 
 #### Card
-<img src="https://github.com/user-attachments/assets/12b54985-8628-4c96-9db4-75aaf0823554" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/620ea8a4-9530-41f1-a98a-0bf5112a29de" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/0a6e0771-fd52-4ca0-866b-69a530df4f96" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/09fa10ba-57fe-46e1-adeb-bbde14c6e634" width="262" height="568"/>
-<img src="https://github.com/user-attachments/assets/b2035ba8-f238-498b-be54-9099bca65729" width="262" height="568"/>
+<img src="https://github.com/user-attachments/assets/12b54985-8628-4c96-9db4-75aaf0823554" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/620ea8a4-9530-41f1-a98a-0bf5112a29de" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/0a6e0771-fd52-4ca0-866b-69a530df4f96" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/09fa10ba-57fe-46e1-adeb-bbde14c6e634" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/79ad0e4c-6732-463e-abc4-74500850ba6" width="196" height="426"/>
+
+
+<img src="https://github.com/user-attachments/assets/b2035ba8-f238-498b-be54-9099bca65729" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/2af23ddf-2a3b-4232-a60a-25052f474a1a" width="196" height="426"/>
+
+<img src="https://github.com/user-attachments/assets/e590efe7-f0e7-4888-afd5-fbe20faa9416" width="196" height="426"/>
+
+
+<img src="https://github.com/user-attachments/assets/fe777353-4b9f-49b2-b3d7-4dd8b9b9db5a" width="196" height="426"/>
+
+
 
 <hr/>
 <br/>
 
 #### friend
-<img src ="https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6" width="262" height= "568"/>
-<img src = "https://github.com/user-attachments/assets/95499435-363e-4498-a094-532de7cdbe2d" width="262" height= "568"/>
-<img src = "https://github.com/user-attachments/assets/bbebaf93-8fea-4b8e-bf5d-f9eaf53003e3" wirth= "262" height = "568"/>
+<img src ="https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6" width="196" height="426"/>
+
+<img src = "https://github.com/user-attachments/assets/95499435-363e-4498-a094-532de7cdbe2d" width="196" height="426"/>
+
+<img src = "https://github.com/user-attachments/assets/bbebaf93-8fea-4b8e-bf5d-f9eaf53003e3" width="196" height="426"/>
+
 
 
 <hr/>
